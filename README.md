@@ -1,5 +1,5 @@
 # Quotes_Scraper
-"Scraping Quotes from Website with Python and Beautiful Soup"
+"Scraping Quotes from Website: [Quotes](https://quotes.toscrape.com/) with Python and Beautiful Soup"
 
 This Git repository contains a Python script that utilizes the `requests` library and the `BeautifulSoup` library to scrape quotes from a website. The script is structured as a class called `QuotesScrape` and demonstrates web scraping techniques using the Model-View-Controller (MVC) architectural pattern.
 
